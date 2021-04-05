@@ -3,3 +3,4 @@
 仓库样版在reponsitory
 拿python2写的(run with python2)
 记得安装sqlite3
+makecache和update没有经过测试请谨慎使用
